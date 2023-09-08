@@ -1,0 +1,65 @@
+{
+  "creationDate": "2023-09-08T16:03:49.835053+03:00[Europe/Moscow]",
+  "id": 3,
+  "name": "l",
+  "coordinates": {
+    "x": 5,
+    "y": 4.0
+  },
+  "health": 3.0,
+  "heartCount": 1,
+  "loyal": true,
+  "meleeWeapon": "CHAIN_SWORD",
+  "chapter": {
+    "name": "meow",
+    "world": "nvsm"
+  }
+}{
+  "creationDate": "2023-09-08T16:28:28.014589700+03:00[Europe/Moscow]",
+  "id": 1,
+  "name": "wl\u0027ds",
+  "coordinates": {
+    "x": 4,
+    "y": 42.0
+  },
+  "health": 23.0,
+  "heartCount": 2,
+  "loyal": true,
+  "meleeWeapon": "LIGHTING_CLAW",
+  "chapter": {
+    "name": "rwe",
+    "world": ""
+  }
+}{
+  "creationDate": "2023-09-08T16:03:49.835053+03:00[Europe/Moscow]",
+  "id": 2,
+  "name": "l",
+  "coordinates": {
+    "x": 5,
+    "y": 4.0
+  },
+  "health": 3.0,
+  "heartCount": 1,
+  "loyal": true,
+  "meleeWeapon": "CHAIN_SWORD",
+  "chapter": {
+    "name": "meow",
+    "world": "nvsm"
+  }
+}{
+  "creationDate": "2023-09-08T16:38:11.163346500+03:00[Europe/Moscow]",
+  "id": 4,
+  "name": "gmkw",
+  "coordinates": {
+    "x": 3,
+    "y": 3.0
+  },
+  "health": 3.0,
+  "heartCount": 3,
+  "loyal": true,
+  "meleeWeapon": "LIGHTING_CLAW",
+  "chapter": {
+    "name": "3",
+    "world": "3"
+  }
+}
