@@ -1,6 +1,5 @@
 package main.Models;
 
-import com.opencsv.bean.CsvBindByPosition;
 import main.Exceptions.WrongArgumentsException;
 
 import java.util.Comparator;
@@ -17,9 +16,8 @@ public class Coordinates {
         this.x = x;
         this.y = y;//can't be null, <= 47
     }
-    @CsvBindByPosition(position = 3)
+   
     private Long x;
-    @CsvBindByPosition(position = 4)
     private Double y;
 
     public long getX() {
