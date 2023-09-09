@@ -1,6 +1,5 @@
 package main.Models;
 
-import com.opencsv.bean.CsvBindByPosition;
 import main.Exceptions.WrongArgumentsException;
 
 import java.util.Objects;
@@ -17,9 +16,8 @@ public class Chapter {
         this.world = world; //not null, can be empty
     }
 
-    @CsvBindByPosition(position = 9)
+    
     private String name;
-    @CsvBindByPosition(position = 10)
     private String world;
 
     public String getName(){
