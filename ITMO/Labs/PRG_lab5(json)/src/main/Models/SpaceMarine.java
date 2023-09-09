@@ -40,20 +40,14 @@ public class SpaceMarine {
         this.chapter = chapter;
     }
 
-    @CsvBindByPosition(position = 11)
+    
     private java.time.ZonedDateTime creationDate;
-    @CsvBindByPosition(position = 0)
     private int id;
-    @CsvBindByPosition(position = 1)
     private String name;
     private Coordinates coordinates;
-    @CsvBindByPosition(position = 5)
     private float health;
-    @CsvBindByPosition(position = 6)
     private Long heartCount;
-    @CsvBindByPosition(position = 7)
     private boolean loyal;
-    @CsvBindByPosition(position = 8)
     private MeleeWeapon meleeWeapon;
 
     private Chapter chapter;
