@@ -1,21 +1,4 @@
-show
-add
-meow
-4
-4
-4
-2
-meow
-""
-4
-true
-add
-
-show
 info
-
-
-5
-help
 show
-execute_script show.txt
+add
+show
